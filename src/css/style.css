@@ -280,8 +280,3 @@ body{
   text-decoration: none;
   animation: btn-pisca 1.2s infinite alternate ease-in-out;
 }
-
-.btn-back{
-    color: rgb(44, 44, 44);
-    font-size: 2rem;
-}
